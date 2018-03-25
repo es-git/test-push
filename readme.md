@@ -4,4 +4,4 @@ Testing v0.7.0
 
 testing123
 
-more test
+does any js git implementation support merging?
